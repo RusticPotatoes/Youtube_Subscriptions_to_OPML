@@ -17,6 +17,7 @@ setup(
 		'youtube_api',
 		'pandas',
 		'os',
-		'argparse'
+		'argparse',
+		'datetime'
 		]
 	)
